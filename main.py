@@ -33,7 +33,7 @@ app.add_middleware(
 # It's recommended to store your API key in an environment variable for security.
 # For deployment on services like Render, you will set this in the environment variables section.
 API_KEY = os.getenv("FMP_API_KEY")
-BASE_URL = "https://netlify-render-bi-dashboard-2.onrender.com"
+BASE_URL = " https://netlify-render-bi-dashboard-3.onrender.com"
 
 
 # --- Helper Function for API Calls ---
